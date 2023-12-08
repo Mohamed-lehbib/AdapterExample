@@ -1,0 +1,29 @@
+
+Q
+!src/main/java/example3/IBook.java,2/9/291ad2a29fcffc90605b3bcddde8320587b9aec6
+W
+'src/main/java/example3/BookManager.java,1/9/19010ce0f2d6d4a87a3ffdd1480b11271d249bd0
+Q
+!src/main/java/example3/EBook.java,9/5/9591cb7030e926feb788ba2c0e4fc3459632eea9
+X
+(src/main/java/example3/EBookAdapter.java,3/c/3c2ca102f93f090e6b5c4e798b92bc26bd53e027
+P
+ src/main/java/example3/Main.java,e/8/e8dc108f88c945f19afa0c4cdeeaebc3a76a1505
+U
+%src/main/java/example3/PaperBook.java,2/8/28a7242f23be18497d051c6d1fd9d4ec904cdd8a
+V
+&src/main/java/XmlToJson/IJsonData.java,8/f/8f856741c962036dfea62753e86106b7029d49d6
+T
+$src/main/java/XmlToJson/XmlData.java,5/b/5bf0bae15792851a00fc679c8762156077c791aa
+]
+-src/main/java/XmlToJson/XmlToJsonAdapter.java,d/8/d8040eb23b6936a5d6929f68b3f578fffcf26cde
+[
++src/main/java/XmlToJson/StockMarketApp.java,b/1/b159c204e0f567eb92751ef79d0ef2f8ad86f168
+Q
+!src/main/java/XmlToJson/Main.java,3/9/397acb42c02071f018d91a9f49e2f5069156df49
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+R
+"src/main/java/example1/School.java,9/d/9d01be29a6844a522f7ac0f7797a49024acf58c2
